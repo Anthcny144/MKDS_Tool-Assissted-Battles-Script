@@ -8,4 +8,5 @@ A script with informations about items, CPUs and your kart. Useful for TASing Ba
 
 # TODO
 - Prevent the script from working in Shine Runners mode
+- Show CPUs' next items when their items are in the item roulette state (instead of the ? box)
 - Fix "Can speed" and "Can use" that sometimes turns true 1 frame too early
